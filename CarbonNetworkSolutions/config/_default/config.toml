@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/andromeda-light/examplesite/"
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+baseURL = "https://dcarbonnetworksolutions.com"
+title = "Carbon Network Solutions - WISP Consulting Tailored to your network and needs"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"
