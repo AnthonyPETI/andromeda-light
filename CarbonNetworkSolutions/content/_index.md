@@ -1,15 +1,15 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  title: "Carbon Network Solutions - WISP Consulting tailored to your network and needs"
+  button: "Contact Us"
+  button_link: "https://carbonnetworksolutions.com/contactus"
   image: "images/banner-app.png"
 
 
 # brands
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -32,38 +32,60 @@ features:
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
   features_blocks:
   - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Network Engineering"
+    content: "•	Network configuration, Upgrades, modification, and troubleshooting
+•	Familiarity with networking hardware and software from the likes of:
+•	Mikrotik, Ubiquiti, Cisco, VyOS, DanOS, IPinfusions OC-NOS, raw FRR, and generic network CLI
+•	Familiar with BGP, OSPF,  IS-IS, MPLS, VPLS, VX-LAN EVPN, and many other protocols as required.
+•	Knowledge of LTE/CBRS
+"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Live Deployment and Remote Upgrades/Modifications"
+    content: "•	Completely convert and redesign live networks <br>
+    •	Most work can be done remotely <br>
+    •	On-Site work available as needed/requested. 
+"
   - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Network auditing, discovery, documentation, and Adjacent works"
+    content: "•	Thoroughly dig through all network hardware and software to find security holes, undocumented/unaccounted equipment, Full documentation how you would prefer: excel document, Google Sheet, Specialized IPAM software (your CRM, Netbox, Nautobot, PHPIPAM, etc.)
+•	Adjacent works including ARIN registration/requests, FCC 477 filings, and preparations for frequency coordination
+•	Frequency overlap and band planning
+•	SAS Configuration and registration
+"
   - icon: "las la-link"
-    title: "Instant Link Sharing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Cloud, Virtualization and monitoring and Integrations"
+    content: "•	Building out your virtual environment and cost analysis of onsite vs. cloud virtualization
+•	Familiar with proxmox, ESXI, Hyper-V, and XCP-NG
+•	Benefits and drawbacks to moving your network to a virtual Core or other virtualized network functions
+•	Build up a network monitoring solution tailored to your needs
+o	 include Zabbix, librenms, OpenNMS, and Netxms
+•	Integrations between systems – Such as preseem, Towercoverage, EPCs, DHCP/DNS Servers, Monitoring with various gateways, VoIP systems, etc 
+"
   - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "IPv6 Deployment"
+    content: "•	Vast Knowledge surrounding IPv6, including best deployment practices, OSPFv3 and BGP-MP deployment. Security practices and general IPv6 working knowledge"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Advanced Security"
+    content: "Some security Bullshit"
 
 
 # intro_video
 intro_video:   
-  enable: true
-  subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  enable: false
+  subtitle: "Embeded Diagram"
+  title: "interactive Diagrams to understand your network at as a whole"
+  description: "Check out our interactive Network Diagrams:
+The below diagram does not represent any specific design or implementation and is designed for demonstration of how well our diagrams can work on even the most complex networks
+<br>
+Click the diagram to enlarge it, mouse over an item to see more information on the device, click an item to go to the physical diagram for that site.
+"
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
 
 
 # how_it_works
 how_it_works:   
-  enable: true
+  enable: false
   block:
   - subtitle: "Primary Speciality"
     title: "You Will Not miss Your All misunderstandings"
@@ -78,7 +100,7 @@ how_it_works:
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
